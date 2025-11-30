@@ -1,5 +1,8 @@
 # ✂️ Rock Paper Scissors Game (Python + Streamlit)
 
+### 🔗 **Live Demo:**  
+👉 https://rock-paper-sciapprs-game-kvm7mbye47xskkkgrd7llj.streamlit.app/
+
 An interactive **Rock Paper Scissors Game** built with **Python OOP** and **Streamlit**.  
 Try your luck against the computer and see if you can beat it in a best-of-3 challenge! 🎮
 
